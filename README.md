@@ -6,34 +6,26 @@ Admins, we've got you covered too! With powerful tools for managing inventory, t
 
 ---
 
-## 🌟 Key Highlights
-- **Intuitive Design**: A user-friendly interface that makes vehicle exploration a breeze.
-- **Seamless Shopping**: From browsing to checkout, enjoy a smooth e-commerce experience.
-- **Admin Superpowers**: Manage products, orders, and users with precision.
-- **Secure and Reliable**: Powered by modern web technologies for top-notch performance.
-
----
-
 ## 🛠️ Technology Stack
-We’ve combined cutting-edge technologies to create a secure, scalable, and high-performing platform:
-
 - **ASP.NET Core**: The backbone of our API and MVC structure.
 - **Entity Framework Core**: Effortlessly bridges the gap between code and data.
-- **SQL Server**: Rock-solid data management for relational storage.
+- **PostgreSQL**: Rock-solid data management for relational storage.
 - **ASP.NET Identity**: Built-in user authentication and role-based security.
-- **Bootstrap**: Sleek, responsive, and mobile-friendly layouts.
-- **JavaScript/jQuery**: Interactive and dynamic frontend magic.
 
 ---
 
 ## 🏗️ Database Design
 Our robust database ensures seamless operations with well-defined relationships:
 
-- **Users**: Personal info, credentials, and roles (Customer/Admin).
-- **Vehicles**: Comprehensive details like type, brand, and pricing, plus images.
-- **Orders**: Links users with the products they've purchased.
-- **OrderProducts**: A bridge for many-to-many relationships between orders and vehicles.
-- **Payments**: Securely logs all transactions.
+- **Users**:
+- **Roles**:
+- **UserRole**:
+- **Products**:
+- **Orders**:
+- **OrderProducts**:
+- **Payments**:
+- **Categories**:
+- **Addresses**:
 
 ---
 
@@ -76,12 +68,35 @@ With **ASP.NET Identity**, your data is protected, and access is under control:
 
 ---
 
-## 🎯 Why Choose This Platform?
-- **Lightning-fast performance**: Built for speed and reliability.
-- **Scalability in mind**: Designed to grow with your business needs.
-- **Customer-first approach**: Every feature is tailored for user convenience.
-- **Admin-friendly tools**: Spend less time managing and more time scaling.
+## 🖼️ Visuals
+
+Here’s a glimpse of the **Vehicle Management Platform**:
+
+![Main Screenshot 1](./assets/main_page1.png)
+*Main Dashboard*
+
+![Main Screenshot 2](./assets/main_page2.png)
+*Main Dashboard*
+
+![Product Catalog](./assets/products.png)
+*Browse Vehicles*
+
+![Products Details](./assets/product_details.png)
+*Browse Vehicle Details*
+
+![Cart](./assets/cart.png)
+*See Cart*
+
+![Payment](./assets/payment.png)
+*Payment*
+
+![User Profile](./assets/user_profile.png)
+*User Profile*
+
+![Order Details](./assets/order_details.png)
+*Order Details*
+
+![Admin Panel](./assets/admin_panel.png)
+*Admin Panel*
 
 ---
-
-**Get ready to drive the future of vehicle management—one transaction at a time. 🚀**

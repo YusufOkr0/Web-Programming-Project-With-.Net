@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\okur_\\OneDrive\\Masaüstü\\Web Programming-Proje\\Web Programming-Proje.csproj": {}
+    "C:\\Users\\okur_\\OneDrive\\Masaüstü\\Web-Programming-Project-With-.Net\\Web Programming-Proje.csproj": {}
   },
   "projects": {
-    "C:\\Users\\okur_\\OneDrive\\Masaüstü\\Web Programming-Proje\\Web Programming-Proje.csproj": {
+    "C:\\Users\\okur_\\OneDrive\\Masaüstü\\Web-Programming-Project-With-.Net\\Web Programming-Proje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\okur_\\OneDrive\\Masaüstü\\Web Programming-Proje\\Web Programming-Proje.csproj",
+        "projectUniqueName": "C:\\Users\\okur_\\OneDrive\\Masaüstü\\Web-Programming-Project-With-.Net\\Web Programming-Proje.csproj",
         "projectName": "Web Programming-Proje",
-        "projectPath": "C:\\Users\\okur_\\OneDrive\\Masaüstü\\Web Programming-Proje\\Web Programming-Proje.csproj",
+        "projectPath": "C:\\Users\\okur_\\OneDrive\\Masaüstü\\Web-Programming-Project-With-.Net\\Web Programming-Proje.csproj",
         "packagesPath": "C:\\Users\\okur_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\okur_\\OneDrive\\Masaüstü\\Web Programming-Proje\\obj\\",
+        "outputPath": "C:\\Users\\okur_\\OneDrive\\Masaüstü\\Web-Programming-Project-With-.Net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\okur_\\AppData\\Roaming\\NuGet\\NuGet.Config",

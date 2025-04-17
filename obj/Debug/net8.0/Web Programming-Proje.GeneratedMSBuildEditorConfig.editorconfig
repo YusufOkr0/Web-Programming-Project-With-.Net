@@ -9,83 +9,83 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web_Programming_Proje
 build_property.RootNamespace = Web_Programming_Proje
-build_property.ProjectDir = C:\Users\okur_\OneDrive\Masaüstü\Web Programming-Proje\
+build_property.ProjectDir = C:\Users\okur_\OneDrive\Masaüstü\Web-Programming-Project-With-.Net\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\okur_\OneDrive\Masaüstü\Web Programming-Proje
+build_property.MSBuildProjectDirectory = C:\Users\okur_\OneDrive\Masaüstü\Web-Programming-Project-With-.Net
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Auth/Login.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Auth/Register.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Cart/MyCart.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Cart/MyCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxNeUNhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Home/Index.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Home/Privacy.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Manage/AllUsers.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Manage/AllUsers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlXEFsbFVzZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Order/OrderDetails.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Order/OrderDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Order/Payment.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Order/Payment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcUGF5bWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Profile/UpdateUser.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Profile/UpdateUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxVcGRhdGVVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Profile/UserDetails.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Profile/UserDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxVc2VyRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Shared/_Layout.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Vehicle/AllVehicles.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Vehicle/AllVehicles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxBbGxWZWhpY2xlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Vehicle/Create.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Vehicle/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Vehicle/Details.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Vehicle/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/Vehicle/Edit.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/Vehicle/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/_ViewImports.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/okur_/OneDrive/Masaüstü/Web Programming-Proje/Views/_ViewStart.cshtml]
+[C:/Users/okur_/OneDrive/Masaüstü/Web-Programming-Project-With-.Net/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
